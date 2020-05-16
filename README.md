@@ -1,7 +1,5 @@
-# data-science-training
+# Learning Machine Learning
 
-A repository with experimental data analysis using Jupyter Notebooks for the purposes of learning data science concepts.
+A repository with experimental notebooks related to data analysis, machine learning, and deep learning concepts for the purposes of learning more about data science and ML.
 
-## Author
-
-Laura Dang
+Each folder has its own designated README with more details.
